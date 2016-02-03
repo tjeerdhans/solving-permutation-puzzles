@@ -7,11 +7,11 @@ complete description of the location of the ferryman, the wolf, the cabbage and
 the sheep.
 
 I opted for using the symbols `F`, `W`, `S` and `C` for the ferryman, wolf,
-sheep and cabbage respectively. I use `|` to designate the river and place the
+sheep and cabbage respectively. I use `-` to designate the river and place the
 symbols on either side of it, to tell where the corresponding figure is. E.g.
-the string `FWSC|` denotes the all figures are on the left bank of the river.
+the string `FWSC-` denotes the all figures are on the left bank of the river.
 This could be the starting position. The end position would be described by
-`|FWSC`.
+`-FWSC`.
 
 **Excercise** How many different states does the wolf, sheep and cabbage puzzle
   has? 
@@ -26,22 +26,22 @@ puzzle.
 
 | #  | State    | Notes     |
 |---------------------------|
-| 1  | `FWSC\|` | Start     |
-| 2  | `FWS\|C` |           |
-| 3  | `FWC\|S` |           |
-| 4  | `FSC\|W` |           |
-| 5  | `WSC\|F` | Forbidden |
-| 6  | `FW\|SC` | Forbidden |
-| 7  | `FS\|WC` |           |
-| 8  | `FC\|WS` | Forbidden |
-| 9  | `WS\|FC` | Forbidden |
-| 10 | `WC\|FS` |           |
-| 11 | `SC\|FW` | Forbidden |
-| 12 | `F\|WSC` | Forbidden |
-| 13 | `W\|FSC` |           |
-| 14 | `S\|FWC` |           |
-| 15 | `C\|FWS` |           |
-| 16 | `\|FWSC` | Finish    |
+| 1  | `FWSC-` | Start     |
+| 2  | `FWS-C` |           |
+| 3  | `FWC-S` |           |
+| 4  | `FSC-W` |           |
+| 5  | `WSC-F` | Forbidden |
+| 6  | `FW-SC` | Forbidden |
+| 7  | `FS-WC` |           |
+| 8  | `FC-WS` | Forbidden |
+| 9  | `WS-FC` | Forbidden |
+| 10 | `WC-FS` |           |
+| 11 | `SC-FW` | Forbidden |
+| 12 | `F-WSC` | Forbidden |
+| 13 | `W-FSC` |           |
+| 14 | `S-FWC` |           |
+| 15 | `C-FWS` |           |
+| 16 | `-FWSC` | Finish    |
 
 We now have a good grasp of all the states that play a role in the sheep, wolf,
 cabbage puzzle. But we the possible moves from each state are still unclear. Let
@@ -71,3 +71,8 @@ ferryman could travel alone (state 5), or take on of the other actors (state 9,
 | 15 | 3, 4              |
 | 16 | 6, 7, 8, 12       |
 
+Although we could use the table to come up with a solution, we are helped
+enormously if we have a visual representation. With this representation we can
+see that there are two essentially different solutions
+
+![Graph of the wolf, sheep and cabbage puzzle](images/wolf-sheep-cabbage.png)
