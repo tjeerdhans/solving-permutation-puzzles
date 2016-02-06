@@ -75,4 +75,5 @@ Although we could use the table to come up with a solution, we are helped
 enormously if we have a visual representation. With this representation we can
 see that there are two essentially different solutions
 
+{width=50%}
 ![Graph of the wolf, sheep and cabbage puzzle](images/wolf-sheep-cabbage.png)
