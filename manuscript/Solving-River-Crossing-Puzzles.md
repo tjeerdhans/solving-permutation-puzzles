@@ -52,7 +52,7 @@ ferryman could travel alone (state 5), or take on of the other actors (state 9,
 
 **Excercise** Create a table that lists all possible moves for each state.
 
-| State  | Neighbours    |
+| State  | Neighbors     |
 |------------------------|
 | 1  | 5, 9, 10, 11      |
 | 2  | 13, 14            |
