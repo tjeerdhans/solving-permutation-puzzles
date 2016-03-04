@@ -55,7 +55,8 @@ or we reach the `finish` vertex. Take the vertex with the shortest path of the
 queue. For each neighbor update the known paths and add the neighbors that we
 encounter for the first time.
 
-**Exercise** Implement Dijkstra shortest path algorithm
+## Exercise
+Implement Dijkstra shortest path algorithm
 
 [dijkstra]: https://en.wikipedia.org/wiki/Dijkstra's_algorithm
 
