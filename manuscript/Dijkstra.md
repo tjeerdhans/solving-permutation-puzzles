@@ -56,7 +56,8 @@ queue. For each neighbor update the known paths and add the neighbors that we
 encounter for the first time.
 
 ## Exercise
-Implement Dijkstra shortest path algorithm
+1. Implement Dijkstra shortest path algorithm
+2. Use it to solve the Wolf, Sheep and Cabbage puzzle
 
 [dijkstra]: https://en.wikipedia.org/wiki/Dijkstra's_algorithm
 
