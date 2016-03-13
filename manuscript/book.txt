@@ -3,3 +3,5 @@ River-Crossing-Puzzle.md
 Solving-River-Crossing-Puzzles.md
 Graphs.md
 Dijkstra.md
+Permutations.md
+Cycle-Notation.md
