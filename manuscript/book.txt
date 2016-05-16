@@ -6,4 +6,5 @@ Dijkstra.md
 Permutations.md
 Cycle-Notation.md
 Groups.md
+Generators.md
 Appendix-01.md
