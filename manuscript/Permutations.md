@@ -41,7 +41,7 @@ special property that is when you compose it with a permutation, you get the
 permutation you composed the identity with.
 
 ## Inverse Permutation
-For any permutation there is a special permutation called the inverse. If you
+For any permutation there is a special permutation called the *inverse*. If you
 compose a permutation with its inverse you end up with the identity.
 
 ## Exercises
