@@ -55,7 +55,11 @@ or we reach the `finish` vertex. Take the vertex with the shortest path of the
 queue. For each neighbor update the known paths and add the neighbors that we
 encounter for the first time.
 
-## Exercise
+## Exercises
+Use Dijkstra shortest path algorithm to solve the wolf, sheep and cabbage
+puzzle.
+
+## Implementation
 1. Implement Dijkstra shortest path algorithm
 2. Use it to solve the Wolf, Sheep and Cabbage puzzle
 
