@@ -44,8 +44,8 @@ puzzle.
 | 16 | `-FWSC` | Finish    |
 
 We now have a good grasp of all the states that play a role in the sheep, wolf,
-cabbage puzzle. But we the possible moves from each state are still unclear. Let
-us focus on that for the a moment. From state 1, i.e. where we find everybody on
+cabbage puzzle. But the possible moves from each state are still unclear. Let
+us focus on that for the moment. From state 1, i.e. where we find everybody on
 the left bank, it is possible to move to states 5, 9, 10, and 11, because the
 ferryman could travel alone (state 5), or take on of the other actors (state 9,
 10, 11 respectively).
