@@ -45,7 +45,7 @@ The closed-ness property comes with other nice properties.
 2. For each permutation `p` there is an **inverse** element. I.e. an element
    that when multiplied with `p` results in the identity.
 
-There is an interesting property that multiplication of permutation has. The
+There is an interesting property that multiplication of permutations has. The
 multiplication is called **associative**. Any collection of elements that
 multiplies that satisfies the four properties **closed**, **associative**,
 **identity** and **inverse** is called a [group][].
