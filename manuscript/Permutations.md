@@ -50,3 +50,7 @@ compose a permutation with its inverse you end up with the identity.
 3. Convince yourself that every permutation has an inverse and that the inverse
    is unique.
 4. Determine the inverse of `[1, 2, 3, 4, 0]` and `[1, 0, 3, 2]`. 
+
+## Implementation
+Implement permutations and there operation in your favorite programming
+language. 
