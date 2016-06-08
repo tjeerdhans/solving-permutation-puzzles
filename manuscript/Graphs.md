@@ -11,4 +11,4 @@ is one. It tells you if two vertices are neighbors.
 
 Two others could be the _adjacency matrix_ and the _incidence matrix_.
 
-[graph]: https://en.wikipedia.org/wiki/Graph_(discreAte_mathematics)
+[graph]: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
