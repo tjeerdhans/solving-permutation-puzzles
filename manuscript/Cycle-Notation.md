@@ -46,3 +46,6 @@ following cycle notation.
 2. How does the cycle notation of two permutation relate to the cycle notation
    of their product? E.g `(0 1 2)` and `(3 4)`, or `(0 1 2)` and `(2 3)`.
 3. Implement an algorithm to create the cycle notation given a permutation.
+
+## Implementation
+Implement the cycle notation for permutations.
