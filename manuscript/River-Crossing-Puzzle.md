@@ -10,7 +10,7 @@ following a wolf, a sheep and a cabbage over the river to the other side. The
 ferryman can only take one of them besides herself in the boat. If the wolf is
 left alone with the sheep, the sheep will be eaten. This is something that
 should be avoided. The sheep can not resist itself if left alone with the
-cabbage, and will eat it if it gets the change. This is also something that
+cabbage, and will eat it if it gets the chance. This is also something that
 should be avoided.
 
 In the above puzzle the following questions arise. Is the ferryman able to ferry
