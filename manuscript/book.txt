@@ -8,4 +8,5 @@ Cycle-Notation.md
 Groups.md
 Generators.md
 Words.md
+Partial-Success.md
 Appendix-01.md
