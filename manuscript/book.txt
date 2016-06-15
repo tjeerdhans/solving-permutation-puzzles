@@ -11,4 +11,5 @@ Words.md
 Partial-Success.md
 Orbits.md
 There-And-Back-Again.md
+Schreier-Sims.md
 Appendix-01.md
