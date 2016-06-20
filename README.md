@@ -6,7 +6,7 @@ This book is distributed via [Leanpub][leanpub:solving-permutation-puzzles].
 ## Workshop
 A workshop that will present this material will be held at [Joy of Coding][joy-of-coding].
 
-## For the impatiant
+## For the impatient
 For the impatient, below is a short transcript on how to solve a geometric
 puzzle with [GAP][gap].
 
@@ -15,7 +15,7 @@ We will look at the symmetries of the pentagon, and how to reach a certain
 configuration by rotating and flipping over.
 
 ### Finding generators
-Number the vertices of the pentagon 1 through 5. If we rotate it notice that it
+Number the vertices of the pentagon 1 through 5. If we rotate, notice that it
 produces the permutation
 
 ```plain
