@@ -6,7 +6,7 @@ ferryman, a wolf, a sheep and a cabbage. Even though this is not a permutation
 puzzle we can learn a lot from it.
 
 A ferryman finds herself on one bank of a river and is tasked with carrying the
-following a wolf, a sheep and a cabbage over the river to the other side. The
+following over the river to the other side: a wolf, a sheep and a cabbage. The
 ferryman can only take one of them besides herself in the boat. If the wolf is
 left alone with the sheep, the sheep will be eaten. This is something that
 should be avoided. The sheep can not resist itself if left alone with the

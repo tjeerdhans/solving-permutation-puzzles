@@ -4,7 +4,7 @@ puzzles quickly, read on.
 
 ## Software
 We are going to use the [GAP][gap] computer algebra system. Make sure you
-install the latest version.
+install the latest version from http://www.gap-system.org/.
 
 ## Puzzle
 We will look at the symmetries of the pentagon, and how to reach a certain
@@ -33,7 +33,7 @@ permutation
 
 or `(2 5)(3 4)`
 
-## Creating group
+## Creating the group
 Start `gap` and enter the following command to create the pentagon group.
 
 ```plain
@@ -41,7 +41,7 @@ pentagon := Group((1,2,3,4,5), (2,5)(3,4));
 ```
 
 ## Membership
-We can use the group to check if a permutation is a member of the group. E.g. to
+We can use the group to check if a permutation is a member of the group; i.e. to
 see that `(1 2)` is not a member of the group.
 
 ```plain
