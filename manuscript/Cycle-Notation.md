@@ -29,7 +29,7 @@ leave out numbers that are not permuted. In our example we end up with the
 following cycle notation.
 
 ```plain
-(0 2 1)(3 4)
+(0 1 2)(3 4)
 ```
 
 ## Exercises
